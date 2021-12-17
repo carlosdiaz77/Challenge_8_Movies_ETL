@@ -5,7 +5,7 @@
 This is the challenge activity for the module 8 of the Data Analytics and Visualization Boot Camp of the university of Texas at Austin.
 The main idea is to apply the learned skills of ETL (Extract, Transform, Load)
 
-<img src = "ETL_intro.png" width= "400" >
+<img src = "Resources/ETL_intro.png" width= "400" >
 This project takes in new data, performs the appropriate transformations, and loads the data into existing tables. 
 I created one function that takes in the three files—Wikipedia data, Kaggle metadata, and the MovieLens rating data—and performs the ETL process by adding the data to a PostgreSQL databas
 
