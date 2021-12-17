@@ -11,7 +11,6 @@ I created one function that takes in the three files—Wikipedia data, Kaggle me
 
 ## 2. Results:
 
-
 This assignment consists of four technical analysis deliverables. 
 
 - Deliverable 1: Write an ETL Function to Read Three Data Files
@@ -23,13 +22,4 @@ This assignment consists of four technical analysis deliverables.
 
 ## 3. Summary: 
 
-### Summary:  
-	
--	In the table below we can see that in the last 3 years , the company only has hired  9,000  employees.
--	This company needs to start hiring people urgenlty, so that can fill the gaps 
-<img src =  "Resources/group_from_date.png" width= "650" >
-
-
-### Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
--	As we previuosly stated, there are about 90 thousand employees that will retire in the next 5 years , We surely have lots of talent and enough people to train the future leaders of the company
-<img src =  "Resources/qualified_ready.png" width= "650" >
+Using your knowledge of Python, Pandas, the ETL process, and code refactoring,  I was able to exract the data, transform it  and later be load it to Postgresql
